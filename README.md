@@ -34,8 +34,6 @@ For the easiest beginner workflow, push this folder to a GitHub repository, then
 
 ## Suggested LinkedIn project summary
 
-Built **FitCheck by Revanth**, a responsive BMI calculator using HTML, CSS, and JavaScript, with personalized user-friendly feedback and privacy-first browser-side calculations. The project can be hosted on AWS to practice public static web hosting, HTTPS delivery, GitHub integration, and cloud deployment fundamentals.
-
 
 ### Calculation interaction and troubleshooting
 The Calculate button now runs the calculation directly and the form also supports Enter-key submission. A visible status line confirms when JavaScript has initialized; validation problems and unexpected runtime errors are shown on the page. On narrow screens, FitCheck scrolls to the result card after a successful calculation, respecting reduced-motion preferences.
